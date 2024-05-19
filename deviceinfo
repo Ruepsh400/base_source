@@ -1,3 +1,5 @@
+deviceinfo_name="Redmi Note 10"
+deviceinfo_manufacturer="Xiaomi"
 deviceinfo_codename="mojito"
 deviceinfo_arch="aarch64"
 deviceinfo_kernel_source="https://github.com/Ruepsh400/kernel_ubtouch_mojito.git"
